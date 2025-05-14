@@ -1,0 +1,15 @@
+git init tạo túi để đẩy
+git add <file> để add file vào túi
+git status để xem trạng thái của file
+git commit -m "mess"  ể coment file  lên
+git remote add <name> <link github> 
+git push đẩy file
+git remote -v hiển thị các link hiện có
+git remote add <name2> <link 2> thêm link github sử dụng cùng mã nguồn code
+git push <name2>
+cách thay đổi tài khoản trên máy Credential Manager chọn Window Credential và remove
+sử dung sshkey 
+generate ssh 
+sử dung terminal để tạo ra file .pub
+mở setting tạo sshkey trên GitHub
+làm như trên
